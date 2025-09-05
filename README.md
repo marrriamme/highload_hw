@@ -14,8 +14,8 @@
 
 ### Число активных пользователей[^2]
 
-  - MAU на 3 квартал 2024 года: 49 млн
-  - DAU на 3 квартал 2024 года: 16,2 млн
+  - MAU на 1 квартал 2024 года: 50,2 млн
+  - DAU на 1 квартал 2024 года: 17,4 млн
 
 ### Целевая аудитория[^3]
 
@@ -45,5 +45,5 @@
 ## Список использованных источников
 
 [^1]: https://ru.m.wikipedia.org/wiki/Почта_Mail
-[^2]: https://corp.vkcdn.ru/media/files/RUS_Press_Release_9M_2024.pdf
+[^2]: [https://corp.vkcdn.ru/media/files/RUS_Press_Release_9M_2024.pdf](https://vk.company/ru/press/releases/11757/)
 [^3]: https://pro.similarweb.com/
